@@ -1,4 +1,4 @@
-<h1>CyberEdu</h1>
+<h1><b>CyberEdu</b></h1>
 
 WEB-INTRO (by Lucian Ioan Nitescu)
 
